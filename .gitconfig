@@ -1,0 +1,7 @@
+[user]
+	name = Marshall Jones
+	email = marshall@balancedpayments.com
+[core]
+	editor = emacs
+[color]
+	ui = true
